@@ -61,3 +61,5 @@ function processData(input) {
       console.log(a[i] - totalTobeshared);
     }
 }
+
+
