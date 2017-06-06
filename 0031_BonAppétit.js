@@ -35,7 +35,6 @@
 // Explanation 1
 // Anna didn't eat item , but she shared the rest of the items with Brian. The total cost of the shared items is  and, split in half, the cost per person is . Because this matches the amount, , that Brian charged Anna for her portion of the bill, we print Bon Appetit on a new line.
 
-
 function processData(input) {
     a = input.replace( /\n/g, " " ).split( " " );
 
